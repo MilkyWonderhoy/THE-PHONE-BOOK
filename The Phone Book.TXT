@@ -110,4 +110,5 @@ Foxen's Fabrications ||| 61524514\\
 <color=#8e37b4>Cocoa ||| 26262\\
 AwesomeDolphin ||| 2161976\\
 Kyoto924 ||| 431254\\
+<color=#2c241d>Juspertinry ||| 69\\
 Sleepywuffo ||| 1\\
